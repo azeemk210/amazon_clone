@@ -184,7 +184,8 @@ span {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background-color: rgb(112, 229, 157);
+    background-color: #d4eddf;
+    flex-wrap: wrap;
 }
 
 
