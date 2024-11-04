@@ -209,3 +209,38 @@ span {
    margin-left: 1rem;
    margin-right: 1rem;
 }
+
+/** Box Footer**/
+
+footer {margin-top: 1rem;
+}
+
+.foot-panel1 {
+    height: 40px;
+    background-color: #37475a;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.foot-panel2 {
+    height: 300px;
+    background-color: #222f3d;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    
+}
+
+ul {
+    margin-top: 1rem;
+
+}
+
+ul a {
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+}
